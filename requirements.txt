@@ -9,7 +9,7 @@ ipdb==0.12
 ipython==5.8.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 PasteDeploy==2.0.1
 pathlib2==2.3.3
